@@ -28,11 +28,11 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
-  date_start: "2025-05-01"
+  date_start: "2025-05-15"
   description: ""
-  organization: Rackham Graduate School
-  organization_url: https://rackham.umich.edu/
-  title: Rackham Doctoral Intern Fellowship
+  organization: Oklahoma State University
+  organization_url: https://cas.okstate.edu/statistics/
+  title: VIK Family Research Fellowship
   url: ""
 
 - certificate_url: ''
