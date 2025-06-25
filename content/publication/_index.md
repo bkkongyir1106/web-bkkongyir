@@ -2,7 +2,7 @@
 title: Research
 cms_exclude: true
 
-weight: 130  # ← Add this line
+weight: 185  # ← Add this line
 
 # View.
 #   1 = List
