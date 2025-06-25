@@ -2,6 +2,8 @@
 title: Research
 cms_exclude: true
 
+weight: 130  # ← Add this line
+
 # View.
 #   1 = List
 #   2 = Compact
