@@ -28,7 +28,7 @@ experience:
     company_logo: ossef
     location: Oklahoma
     date_start: '2025-03-05'
-    date_end: ''
+    date_end: '2025-03-05'
     description: ''
 
   - title: Science and Mathematics Judge
@@ -37,7 +37,7 @@ experience:
     company_logo: ohio
     location: Ohio
     date_start: '2025-03-01'
-    date_end: ''
+    date_end: '2025-03-01'
     description: ''
 
   - title: Mathematics, Science, and Engineering Judge
@@ -46,7 +46,7 @@ experience:
     company_logo: csef
     location: California
     date_start: '2024-04-15'
-    date_end: ''
+    date_end: '2024-04-15'
     description: ''
 
   - title: Science and Mathematics Judge
@@ -55,7 +55,7 @@ experience:
     company_logo: ohio
     location: Ohio
     date_start: '2024-03-01'
-    date_end: ''
+    date_end: '2024-03-01'
     description: ''
 
 design:
