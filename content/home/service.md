@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 125
+weight: 50
 
 title: Volunteer and Community Service
 subtitle:
