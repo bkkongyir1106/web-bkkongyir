@@ -59,9 +59,9 @@ item:
   date_start: "2021-04-21"
   description: ""
   organization: Hult Prize
-  organization_url: https://www.hultprize.org/
+  organization_url: https://ysu.edu/news/students-advance-international-competition-nobel-peace-prize-college-students
   title: Hult Prize Global Competition Regional Finalist
-  #url: https://www.hultprize.org/
+  url: https://www.hultprize.org/
 
 design:
   columns: '2'
