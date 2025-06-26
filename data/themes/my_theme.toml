@@ -8,10 +8,17 @@ light = false
 primary = "#facc15"  # Soft gold-yellow (for highlights and buttons)
 
 # Menu
-menu_primary = "#1f2937"       # Dark slate background for top menu
-menu_text = "#f9fafb"          # Near white text
-menu_text_active = "#60a5fa"   # Light blue for hover/active menu items
-menu_title = "#facc15"         # Accent yellow for site title/logo
+#menu_primary = "#1f2937"       # Dark slate background for top menu
+#menu_text = "#f9fafb"          # Near white text
+#menu_text_active = "#60a5fa"   # Light blue for hover/active menu items
+#menu_title = "#facc15"         # Accent yellow for site title/logo
+
+# Menu
+menu_primary = "#0f172a"       # Deep navy (modern and elegant)
+menu_text = "#e2e8f0"          # Soft gray-blue (easy on the eyes)
+menu_text_active = "#38bdf8"   # Sky blue (professional pop for active items)
+menu_title = "#f472b6"         # Soft rose pink (stylish, warm accent for branding)
+
 
 # Backgrounds
 #home_section_odd = "#111827"   # Deep gray-blue for odd sections
