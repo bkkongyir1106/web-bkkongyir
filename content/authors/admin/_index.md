@@ -88,3 +88,6 @@ I am a 4th-year PhD candidate in the [Statistics program](https://cas.okstate.ed
 Outside of academics, I’m passionate about social impact and co-founded Konbar, a social enterprise tackling malnutrition and food insecurity through sustainable dry-season irrigation farming in rural Africa. I also enjoy teaching, tutoring statistics, and contributing as a science fair judge to inspire the next generation of thinkers. When I’m not immersed in data or community work, you’ll likely find me listening to music, enjoying meaningful conversations, or cheering on Manchester United.
 
 Go Pokes!   
+
+Click any of the following links to read more about me:
+[Study International](https://studyinternational.com/news/nobel-peace-prize/)
