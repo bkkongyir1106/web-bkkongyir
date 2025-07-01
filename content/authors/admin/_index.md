@@ -89,7 +89,7 @@ Outside of academics, I’m passionate about social impact and co-founded Konbar
 
 Go Pokes!   
 
-Click any of the following links to read more about me:
+Click any of the following links to learn more about me:
 
 [Study International](https://studyinternational.com/news/nobel-peace-prize/)
 
