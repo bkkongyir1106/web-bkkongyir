@@ -87,8 +87,18 @@ experience:
         * Predictive Modeling
         * Soft Skills
         * Auto Safety Features Case Competition.
-        
 
+  - title: Mathematics Teacher
+    company: St. Francis Xavier Minor Seminary
+    company_url: https://www.flickr.com/people/138773819@N08/
+    company_logo: xavier
+    location: ''
+    date_start: '2017-09-15'
+    date_end: '2019-07-14'
+    description: |2-
+        Prepared and taught High school Statistics, Trigonometry, and Calculus
+        Assisted in the training of the Science and Maths Quiz team in mathematics for the 2018 National Science and Maths Quiz Competition.
+        
 
 design:
   columns: '2'
