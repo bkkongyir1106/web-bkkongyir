@@ -96,8 +96,8 @@ experience:
     date_start: '2017-09-15'
     date_end: '2019-07-14'
     description: |2-
-        Prepared and taught High school Statistics, Trigonometry, and Calculus
-        Assisted in the training of the Science and Maths Quiz team in mathematics for the 2018 National Science and Maths Quiz Competition.
+        *Prepared and taught High school Statistics, Trigonometry, and Calculus.
+        * Assisted in the training of the Science and Maths Quiz team in mathematics for the 2018 National Science and Maths Quiz Competition.
         
 
 design:
