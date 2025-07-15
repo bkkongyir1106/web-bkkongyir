@@ -50,10 +50,8 @@ experience:
     location: California
     date_start: '2024-04-15'
     date_end: '2024-04-15'
-    description:
-      * Reviewed students' innovative projects in science, mathematics, Machine Learning, and Artificial Intelligence, and provided
-        constructive comments and suggestions to encourage and enhance students' development in STEM.
-      * Held individual interviews (presentations) with each participant to decide competition winners.
+    description: Reviewed students' innovative projects in science, mathematics, Machine Learning, and Artificial Intelligence, and provided
+    constructive comments and suggestions to encourage and enhance students' development in STEM. Held individual interviews (presentations) with          each participant to decide competition winners.
 
   - title: Science and Mathematics Judge
     company: The Ohio Academy of Science
