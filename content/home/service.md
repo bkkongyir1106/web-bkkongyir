@@ -32,7 +32,6 @@ experience:
     description: Reviewed students' innovative projects in science, mathematics, Machine Learning, and Artificial Intelligence, and provided
     constructive comments and suggestions to encourage and enhance students' development in STEM.
 
-
   - title: Science and Mathematics Judge
     company: The Ohio Academy of Science
     company_url: https://www.ohiosci.org/
@@ -42,7 +41,6 @@ experience:
     date_end: '2025-03-01'
     description: Independently reviewed, scored, and provided constructive feedback to students and the chair.
 
-
   - title: Mathematics, Science, and Engineering Judge
     company: California Science and Engineering Fair
     company_url: https://csef.usc.edu/
@@ -51,8 +49,7 @@ experience:
     date_start: '2024-04-15'
     date_end: '2024-04-15'
     description: Reviewed students' innovative projects in science, mathematics, Machine Learning, and Artificial Intelligence, and provided
-    constructive comments and suggestions to encourage and enhance students' development in STEM. Held individual interviews (presentations) with          each participant to decide competition winners.
-
+    
   - title: Science and Mathematics Judge
     company: The Ohio Academy of Science
     company_url: https://www.ohiosci.org/
