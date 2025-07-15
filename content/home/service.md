@@ -30,7 +30,7 @@ experience:
     date_start: '2025-03-05'
     date_end: '2025-03-05'
     description: Reviewed students' innovative projects in science, mathematics, Machine Learning, and Artificial Intelligence, and provided
-    constructive comments and suggestions to encourage and enhance students' development in STEM.
+                 constructive comments and suggestions to encourage and enhance students' development in STEM. 
 
   - title: Science and Mathematics Judge
     company: The Ohio Academy of Science
