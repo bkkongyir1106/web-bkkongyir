@@ -39,5 +39,5 @@ design:
 
 ### Mathematics Teacher, St. Francis Xavier Minor Seminary
 - High School Mathematics and Statistics
-   * Fall 2017 - Summer 2019 (∼100 students)
+   * Fall 2017 - Summer 2019 (∼50 students) grades 1-3
 
