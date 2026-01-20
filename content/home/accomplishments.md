@@ -25,7 +25,7 @@ item:
   organization_url: https://cas.okstate.edu/statistics/
   title: College of Arts and Science(CAS) Three Minutes Thesis Competition Finalist
   icon: university  # Default academic icon
-  url: [https://cas.okstate.edu/statistics/site_files/documents/newsletters/stat_newsletter2018.pdf](https://cas.okstate.edu/research/3mt.html)
+  url: https://cas.okstate.edu/research/3mt.html
 
 - certificate_url: ''
   date_end: ""
