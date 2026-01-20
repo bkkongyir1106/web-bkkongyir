@@ -25,9 +25,9 @@ design:
 ---
 
 ### Instructor of Record, Oklahoma State University
-- STATS 2013 - Elementary Statistics 
-   * Spring 2025 (~ 100 students),
+- STATS 2013 - Elementary Statistics
    * Fall 2026 (~ 20 students),
+   * Spring 2025 (~ 100 students),
    * Fall 2024 (~ 86 students),
    * Spring 2023 (~ 75 students),
 - STATS 3013 - Intermediate Statistical Analysis (Business Statistics and Analytics in Practice)
