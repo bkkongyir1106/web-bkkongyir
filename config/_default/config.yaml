@@ -5,7 +5,7 @@
 
 title: Benedict Kuunaa-eguo Kongyir # Website name
 baseurl: 'https://bkkongyir.netlify.app/' # Website URL
-copyright: '© B. K. Kongyir  2025' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} B. K. Kongyir' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

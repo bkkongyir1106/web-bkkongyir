@@ -6,12 +6,12 @@ title: Benedict Kuunaa-eguo Kongyir
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: Visiting Assistant Professor of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Oklahoma State University
-  url: https://go.okstate.edu/
+- name: Gustavus Adolphus College
+  url: https://gustavus.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: " "
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Oklahoma State University
-    year: 2026 (Expected)
+    year: 2026
     
   - course: MS in Mathematics
     institution: Youngstown State University, Ohio
@@ -61,7 +61,7 @@ social:
   link: https://github.com/bkkongyir1106
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/
+  link: https://www.linkedin.com/in/benedictkongyir
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -83,7 +83,7 @@ user_groups:
 ---
 
 
-I am a 5th-year PhD candidate in the [Statistics program](https://cas.okstate.edu/statistics/) at Oklahoma State University in Stillwater, Oklahoma. I hail from Lawra-Tolibri, a vibrant town in the Upper West Region of Ghana known for its rich culture and warm hospitality. I earned my MS in [Mathematics](https://academics.ysu.edu/mathematics-and-statistics) at Youngstown State University and my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/). I am a proud 'Xavascan'. I work under the guidance of [Professor Pratyaydipta Rudra](https://experts.okstate.edu/prudra), with my research centered on evaluating the utility of normality tests in statistical practice—work that bridges theoretical rigor with practical applications in modern data analysis.
+I am a Visiting Assistant Professor of Statistics at Gustavus Adolphus College, starting Fall 2026. I completed my PhD in the [Statistics program](https://cas.okstate.edu/statistics/) at Oklahoma State University in Stillwater, Oklahoma, where I worked under the guidance of [Professor Pratyaydipta Rudra](https://experts.okstate.edu/prudra), with my research centered on evaluating the utility of normality tests in statistical practice—work that bridges theoretical rigor with practical applications in modern data analysis. I hail from Lawra-Tolibri, a vibrant town in the Upper West Region of Ghana known for its rich culture and warm hospitality. I earned my MS in [Mathematics](https://academics.ysu.edu/mathematics-and-statistics) at Youngstown State University and my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/). I am a proud 'Xavascan'.
 
 Outside of academics, I’m passionate about social impact and co-founded Konbar, a social enterprise tackling malnutrition and food insecurity through sustainable dry-season irrigation farming in rural Africa. I also enjoy teaching, tutoring statistics, and contributing as a science fair judge to inspire the next generation of thinkers. When I’m not immersed in data or community work, you’ll likely find me listening to music, or enjoying meaningful conversations.
 

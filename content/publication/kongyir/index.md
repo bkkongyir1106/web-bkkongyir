@@ -17,11 +17,11 @@ draft: false
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2008-03-28T00:00:00Z"
+date: "2018-03-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2008-03-28T00:00:00Z"
+publishDate: "2018-03-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types:
  - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: 'Journal of Research in Business, Economics and Management, 10, 1971-1988'
 publication_short: ''
 
 abstract: Traditional Expected Value and Bayesian Methods of pricing insurance products are not robust both under minimal data and frequent portfolio adjustments. Deriving a partial differential equation for the price of an insurance put, parallel is struck with the reverse Black Scholes partial differential equation for pricing call options. With appropriate parameter translation of the Black Scholes model, a Pure Premium valuation function that is an improvement over the traditional methods of pricing insurance products results. Its robustness is illustrated with the pricing of a third-party insurance product for private cars.

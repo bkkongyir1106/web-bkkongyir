@@ -9,6 +9,26 @@ date_format: Jan 2006
 item:
 - certificate_url: ''
   date_end: ""
+  date_start: "2026-06-09"
+  description: "Awarded for outstanding graduate student poster presentation at the SRCOS Summer Research Conference, Pensacola Beach, Florida."
+  organization: Southern Regional Council on Statistics (SRCOS)
+  organization_url: ''
+  title: R. L. Anderson Graduate Student Poster Award (Best Poster Award)
+  icon: award
+  url: ''
+
+- certificate_url: ''
+  date_end: ""
+  date_start: "2026-06-09"
+  description: "Boyd Harshbarger Travel Award, presented at the SRCOS Summer Research Conference, Pensacola, Florida."
+  organization: Southern Regional Council on Statistics (SRCOS)
+  organization_url: ''
+  title: Boyd Harshbarger Travel Award
+  icon: award
+  url: ''
+
+- certificate_url: ''
+  date_end: ""
   date_start: "2025-05-15"
   description: ""
   organization: Oklahoma State University

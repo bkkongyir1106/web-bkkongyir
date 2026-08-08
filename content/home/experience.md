@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Assistant Professor of Statistics
+    company: Gustavus Adolphus College
+    company_url: https://gustavus.edu/
+    company_logo: ''
+    location: Saint Peter, Minnesota
+    date_start: '2026-08-24'
+    date_end: ''
+    description: |2-
+
+        * Incoming Fall 2026 — course assignments and description to be added.
   - title: Statistics Instructor
     company: Oklahoma State University 
     company_url: https://cas.okstate.edu/statistics/
     company_logo: osu
     location: Oklahoma
     date_start: '2022-12-01'
-    date_end: ''
+    date_end: '2026-08-01'
     description: |2-
         
         * Designed the course syllabus, selected instructional materials, and structured the curriculum to align with departmental learning objectives.

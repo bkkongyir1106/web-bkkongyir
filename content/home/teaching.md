@@ -24,9 +24,11 @@ design:
   columns: "2" 
 ---
 
+### Instructor, Gustavus Adolphus College
+- Starting Fall 2026 as Visiting Assistant Professor of Statistics — course list to be added.
+
 ### Instructor of Record, Oklahoma State University
 - STATS 2013 - Elementary Statistics
-   * Fall 2026 (~ 20 students),
    * Spring 2025 (~ 100 students),
    * Fall 2024 (~ 86 students),
    * Spring 2023 (~ 75 students),
