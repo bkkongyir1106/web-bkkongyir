@@ -10,8 +10,8 @@ address:
   region: "FL"
   postcode: ""
   country: "United States"
-summary: "A talk on evaluating the utility of normality tests in statistical practice, presented at the Southern Regional Council on Statistics Summer Research Conference. Awarded the R. L. Anderson Graduate Student Poster Award (Best Poster Award)."
-abstract: "This talk evaluates the utility of normality tests in statistical practice, examining how well these tests serve practitioners and where theoretical rigor and practical application diverge. Presented at the Southern Regional Council on Statistics (SRCOS) Summer Research Conference, where it received the R. L. Anderson Graduate Student Poster Award (Best Poster Award)."
+summary: "A poster presentation on evaluating the utility of normality tests in statistical practice, presented at the Southern Regional Council on Statistics Summer Research Conference. Awarded the R. L. Anderson Graduate Student Poster Award (Best Poster Award)."
+abstract: "This poster evaluates the utility of normality tests in statistical practice, examining how well these tests serve practitioners and where theoretical rigor and practical application diverge. Presented at the Southern Regional Council on Statistics (SRCOS) Summer Research Conference, where it received the R. L. Anderson Graduate Student Poster Award (Best Poster Award)."
 
 date: "2026-06-09T00:00:00Z"
 date_end: "2026-06-09T00:00:00Z"
@@ -20,7 +20,7 @@ all_day: true
 publishDate: "2026-06-09T00:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["Poster"]
 
 featured: true
 
@@ -32,6 +32,7 @@ image:
 url_slides: ""
 url_code: ""
 url_pdf: ""
+url_poster: ""
 url_video: ""
 
 slides: ""
