@@ -16,9 +16,29 @@ main:
   - name: Awards
     url: '#accomplishments'
     weight: 40
+  - name: Talks
+    url: '/talk/'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
+
+  # Miscellaneous dropdown (personal pages, kept off to the side of the CV content).
+  - name: Miscellaneous
+    url: '/miscellaneous/'
+    weight: 70
+  - name: Family
+    url: '/miscellaneous/family/'
+    weight: 10
+    parent: Miscellaneous
+  - name: Gallery
+    url: '/miscellaneous/gallery/'
+    weight: 20
+    parent: Miscellaneous
+  - name: Fun Memories
+    url: '/miscellaneous/fun-memories/'
+    weight: 30
+    parent: Miscellaneous
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

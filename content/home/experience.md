@@ -27,7 +27,7 @@ experience:
     company_url: https://gustavus.edu/
     company_logo: ''
     location: Saint Peter, Minnesota
-    date_start: '2026-08-24'
+    date_start: '2026-08-15'
     date_end: ''
     description: |2-
 
@@ -38,7 +38,7 @@ experience:
     company_logo: osu
     location: Oklahoma
     date_start: '2022-12-01'
-    date_end: '2026-08-01'
+    date_end: '2026-07-31'
     description: |2-
         
         * Designed the course syllabus, selected instructional materials, and structured the curriculum to align with departmental learning objectives.
