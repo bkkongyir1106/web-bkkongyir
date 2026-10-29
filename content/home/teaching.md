@@ -12,8 +12,8 @@ August 2026–present
 
 Teaching statistics and data analysis, with applied work in data preparation, visualization, statistical inference, and interpretation for students with varied technical backgrounds.
 
-- **MCS 142** — Fall 2026: two sections, approximately 24 students per section.
-- **MCS 242** — Fall 2026: one section, approximately 16 students.
+- **MCS 142 — Introductory Statistics** — Fall 2026: two sections, approximately 24 students per section.
+- **MCS 242 — Applied Regression Analysis** — Fall 2026: one section, approximately 16 students.
 
 ### Instructor of Record, Oklahoma State University
 August 2022–May 2026
