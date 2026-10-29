@@ -1,0 +1,4 @@
+{{/* Single source: homepage teaching content also powers the courses page. */}}
+{{ with site.GetPage "/home" }}
+  {{ with .Resources.GetMatch "teaching.md" }}{{ .Content }}{{ end }}
+{{ end }}

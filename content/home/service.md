@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 90
 
-title: Volunteer and Community Service
+title: Leadership & Service
 subtitle:
 
 # Date format for experience
@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: President
+    company: OSU Statistics Club
+    company_url: https://cas.okstate.edu/statistics/
+    location: Oklahoma
+    date_start: '2025-08-01'
+    date_end: '2026-07-31'
+    description: ''
   - title: Mathematics and Computer Science Judge
     company: Oklahoma State Science and Engineering Fair
     company_url: https://ossef.zfairs.com/App?f=3a54a90b-a987-4c07-a01c-975fef608418
     company_logo: ossef
     location: Oklahoma
-    date_start: '2025-03-05'
-    date_end: '2025-03-05'
+    date_start: '2025-04-01'
+    date_end: '2025-04-01'
     description: Reviewed students' innovative projects in science, mathematics, Machine Learning, and Artificial Intelligence, and provided
                  constructive comments and suggestions to encourage and enhance students' development in STEM. Held individual interviews
                  (presentations) with each participant to decide competition winners.
@@ -38,9 +45,9 @@ experience:
     company_url: https://www.ohiosci.org/
     company_logo: ohio
     location: Ohio
-    date_start: '2025-03-01'
-    date_end: '2025-03-01'
-    description: Independently reviewed, scored, and provided constructive feedback to students and the chair.
+    date_start: '2024-05-01'
+    date_end: ''
+    description: Independently review, score, and provide constructive feedback to students and the chair.
 
   - title: Mathematics, Science, and Engineering Judge
     company: California Science and Engineering Fair
@@ -53,14 +60,6 @@ experience:
                  constructive comments and suggestions to encourage and enhance students' development in STEM. Held individual interviews
                  (presentations) with each participant to decide competition winners.
     
-  - title: Science and Mathematics Judge
-    company: The Ohio Academy of Science
-    company_url: https://www.ohiosci.org/
-    company_logo: ohio
-    location: Ohio
-    date_start: '2024-03-01'
-    date_end: '2024-03-01'
-    description: Independently reviewed, scored, and provided constructive feedback to students and the chair.
 
 design:
   columns: '2'

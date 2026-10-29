@@ -8,19 +8,19 @@
 theme: my_theme
 day_night: false
 font: my_font_set
-font_size: S
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'Doctoral Student in Statistics at Oklahoma State University'
+description: 'Statistician, researcher, and data scientist. Visiting Assistant Professor in Statistics at Gustavus Adolphus College.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-#email: bagyare@umich.edu
+email: kongyirbenkk@gmail.com
 #phone: 888 888 88 88
 #address:
 #  street: 450 Serra Mall
@@ -57,7 +57,7 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: LinkedIn Profile
-    link: linkedin.com/in/benedictkongyir
+    link: https://linkedin.com/in/benedictkongyir
 
 # Site header
 
@@ -66,7 +66,7 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -89,7 +89,7 @@ privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
-  repo_branch: main
+  repo_branch: master
   editable:
     page: false
     post: false
@@ -151,8 +151,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'UA-200851324-1'
-  google_tag_manager: 'G-GPL6087QSL'
+  google_analytics: ''
+  google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''

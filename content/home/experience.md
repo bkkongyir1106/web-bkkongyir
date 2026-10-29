@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
-title: Working Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Assistant Professor in Statistics
+    company: Gustavus Adolphus College
+    company_url: https://gustavus.edu/
+    location: St. Peter, Minnesota
+    date_start: '2026-08-01'
+    date_end: ''
+    description: Teach statistics and data analysis and guide applied work in data preparation, visualization, statistical inference, and interpretation for audiences with varied technical backgrounds.
   - title: Statistics Instructor
     company: Oklahoma State University 
     company_url: https://cas.okstate.edu/statistics/
     company_logo: osu
     location: Oklahoma
-    date_start: '2022-12-01'
-    date_end: ''
+    date_start: '2022-08-01'
+    date_end: '2026-05-31'
     description: |2-
         
         * Designed the course syllabus, selected instructional materials, and structured the curriculum to align with departmental learning objectives.
@@ -39,11 +46,11 @@ experience:
     company_url: https://us.milliman.com/en
     company_logo: milliman
     location: Chicago
-    date_start: '2024-06-20'
-    date_end: '2024-08-15'
+    date_start: '2024-05-01'
+    date_end: '2024-08-31'
     description: |2-
         * Conducted detailed quantitative analysis to assess the impact of using varying spot rates on financial projections.
-        * Created a tool for scenario generation for model pre-production. My tool enables the rapid and flexible generation of diverse scenarios, enhancing the model's robustness and facilitating more               accurate and informed decision-making.
+        * Created a tool for scenario generation for model pre-production. The Python-based tool reduced runtime by over 90% and enables the rapid and flexible generation of diverse scenarios, enhancing the model's robustness and facilitating more               accurate and informed decision-making.
         * Conducted a Kolmogorov-Smirnov test to test if random numbers from a scenario generation are uniformly distributed. This ensures the validity and reliability of the model projections.
 
   - title: Actuarial Intern
@@ -51,8 +58,8 @@ experience:
     company_url: https://us.milliman.com/en
     company_logo: milliman
     location: Chicago
-    date_start: '2023-06-20'
-    date_end: '2023-08-15'
+    date_start: '2023-05-01'
+    date_end: '2023-08-31'
     description: |2-
         * Developed an interactive dashboard of yield curves using Microsoft Power BI as a basis for a yield curve scenario generation process.
         * Compiled different yield rates from various sources using Microsoft Excel VBA to create a report on the performance of the US stock market.
@@ -60,15 +67,15 @@ experience:
         * Conducted in-depth analysis into the liquidity and illiquidity of three different market structures, revealing interesting but important information about the performance of the various markets.
 
   - title: Actuarial Intern
-    company: Milliman Milliman Financial Risk Management(FRM)
+    company: Milliman Financial Risk Management(FRM)
     company_url: https://us.milliman.com/en
     company_logo: milliman
     location: Chicago
-    date_start: '2022-06-20'
-    date_end: '2022-08-15'
+    date_start: '2022-06-01'
+    date_end: '2022-08-31'
     description: |2-
-        * Streamlined and automated attribution reports analysis using Excel VBA, leading to about 30% reduction in reporting time.
-        * Automated the process of producing financial disclosures using Excel VBA, resulting in efficiency in producing financial disclosures and reducing reporting time by about 60\%.
+        * Streamlined and automated attribution reports analysis using Excel VBA, leading to about 90% reduction in reporting time.
+        * Automated the process of producing financial disclosures using Excel VBA, resulting in efficiency in producing financial disclosures and reducing reporting time by about 90%.
         * Created a program for updating the billing books using Excel VBA, improving the accuracy rate to about 98\%.
 
 

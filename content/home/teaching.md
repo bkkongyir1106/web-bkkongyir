@@ -1,43 +1,37 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
-weight: 30
-
-# Section title
+weight: 40
 title: Teaching
-
-# Section subtitle
-subtitle:
-
-# content
-
-
-# Section design
 design:
-  # Use a 1-column layout
-  columns: "2" 
+  columns: '2'
 ---
 
+### Visiting Assistant Professor in Statistics, Gustavus Adolphus College
+August 2026–present
+
+Teaching statistics and data analysis, with applied work in data preparation, visualization, statistical inference, and interpretation for students with varied technical backgrounds.
+
+- **MCS 142 — Introductory Statistics** — Fall 2026: two sections, approximately 24 students per section.
+- **MCS 242 — Applied Regression Analysis** — Fall 2026: one section, approximately 16 students.
+
 ### Instructor of Record, Oklahoma State University
-- STATS 2013 - Elementary Statistics
-   * Fall 2026 (~ 20 students),
-   * Spring 2025 (~ 100 students),
-   * Fall 2024 (~ 86 students),
-   * Spring 2023 (~ 75 students),
-- STATS 3013 - Intermediate Statistical Analysis (Business Statistics and Analytics in Practice)
-   * Fall 2023 (~30 students)
+August 2022–May 2026
+
+- **STATS 2013 — Elementary Statistics**
+  - Fall 2025: approximately 100 students.
+  - Spring 2025: approximately 100 students.
+  - Fall 2024: approximately 86 students.
+  - Spring 2023: approximately 75 students.
+- **STATS 3013 — Intermediate Statistical Analysis (Business Statistics and Analytics in Practice)**
+  - Fall 2023: approximately 30 students.
 
 ### Instructor of Record, Youngstown State University
-- MATH 1500 - Mathematics Preparation for Algebra Placement
-   * Fall 2020 (∼30 students)
+
+- **MATH 1500 — Mathematics Preparation for Algebra Placement**
+  - Fall 2020: approximately 30 students.
 
 ### Mathematics Teacher, St. Francis Xavier Minor Seminary
-- High School Mathematics and Statistics
-   * Fall 2017 - Summer 2019 (∼50 students) grades 1-3
 
+- **High School Mathematics and Statistics**
+  - Fall 2017–Summer 2019: approximately 50 students, grades 1–3.

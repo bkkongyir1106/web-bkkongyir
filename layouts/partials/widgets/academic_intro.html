@@ -1,0 +1,24 @@
+{{ $person := site.GetPage (printf "/authors/%s" .page.Params.author) }}
+{{ $avatar := ($person.Resources.ByType "image").GetMatch "*avatar*" }}
+<a class="skip-link" href="#research">Skip to research</a>
+<div class="academic-hero">
+  <div class="hero-copy">
+    <p class="eyebrow">STATISTICS · RESEARCH · DATA SCIENCE</p>
+    <h1>Benedict<br>Kongyir<span class="hero-period">.</span></h1>
+    <p class="hero-full-name">Benedict Kuunaa-eguo Kongyir, PhD</p>
+    <p class="hero-role">{{ $person.Params.role }}<br><a href="https://gustavus.edu/">Gustavus Adolphus College</a></p>
+    <p class="hero-summary">Statistical thinking for meaningful questions.<br>Connecting inference, predictive modeling, and practice.</p>
+    <div class="hero-actions"><a class="button-primary" href="#research">Explore my research <span aria-hidden="true">↗</span></a><a class="button-secondary" href="/uploads/cv.pdf">Download résumé <span aria-hidden="true">↓</span></a></div>
+    <nav class="profile-links" aria-label="Professional profiles"><a href="mailto:kongyirbenkk@gmail.com">Email</a><a href="https://scholar.google.com/citations?user=QNfekFwAAAAJ&amp;hl=en">Google Scholar</a><a href="https://github.com/bkkongyir1106">GitHub</a><a href="https://linkedin.com/in/benedictkongyir">LinkedIn</a></nav>
+  </div>
+  <figure class="hero-portrait">
+    {{ with $avatar }}{{ $photo := .Fill "720x900 Center" }}<img src="{{ $photo.RelPermalink }}" alt="Portrait of Benedict Kuunaa-eguo Kongyir" width="720" height="900" fetchpriority="high">{{ end }}
+    <figcaption><span>INQUIRY. INSIGHT. IMPACT.</span><span aria-hidden="true">↗</span></figcaption>
+  </figure>
+</div>
+<div class="about-details">
+  <div class="section-heading"><p class="eyebrow">ABOUT ME</p><h2>A little background.</h2></div>
+  <div class="about-prose">{{ $person.Content }}
+    <details class="education-details"><summary>Education</summary><ul>{{ range $person.Params.education.courses }}<li><strong>{{ .course }}</strong><span>{{ .institution }} · {{ .year }}</span></li>{{ end }}</ul></details>
+  </div>
+</div>
