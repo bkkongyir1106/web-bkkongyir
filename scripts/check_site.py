@@ -49,6 +49,10 @@ for path, doc in documents.items():
 
 home = root / 'index.html'
 text = home.read_text()
+teaching_page = root / 'courses/sessions/index.html'
+for value in ('Introductory Statistics', 'Applied Regression Analysis', 'Fall 2025'):
+    if value not in text or value not in teaching_page.read_text():
+        errors.append(f'Teaching content missing from homepage or courses page: {value}')
 for section in ('about', 'research', 'reports', 'teaching', 'projects', 'cv', 'contact'):
     if section not in documents[home].ids:
         errors.append(f'Missing homepage section: {section}')
