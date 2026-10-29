@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 100
 
 title: Contact
 subtitle:
@@ -28,6 +28,8 @@ content:
 design:
   columns: '2'
 ---
+
+<p class="contact-intro">For research, teaching, and professional inquiries, email <a href="mailto:kongyirbenkk@gmail.com">kongyirbenkk@gmail.com</a>.</p>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=wL_ivsmVVMt7CEc4pZwoXFUxpUSp2OEBWmmfI4O8u94'></script><br/>
 

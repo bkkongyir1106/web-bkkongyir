@@ -1,53 +1,11 @@
-# Theme metadata
-name = "my_theme"
-
-# Is theme light or dark?
-light = false
-
-# Primary
-primary = "#facc15"  # Soft gold-yellow (for highlights and buttons)
-
-# Menu
-#menu_primary = "#1f2937"       # Dark slate background for top menu
-#menu_text = "#f9fafb"          # Near white text
-#menu_text_active = "#60a5fa"   # Light blue for hover/active menu items
-#menu_title = "#facc15"         # Accent yellow for site title/logo
-
-# Menu
-menu_primary = "#0f172a"       # Deep navy (modern and elegant)
-menu_text = "#e2e8f0"          # Soft gray-blue (easy on the eyes)
-menu_text_active = "#38bdf8"   # Sky blue (professional pop for active items)
-menu_title = "#f472b6"         # Soft rose pink (stylish, warm accent for branding)
-
-
-# Backgrounds
-#home_section_odd = "#111827"   # Deep gray-blue for odd sections
-#home_section_even = "#1f2937"  # Slightly lighter for even sections
-
-# Backgrounds
-#home_section_odd = "#0f172a"   # Dark navy
-#home_section_even = "#1e293b"  # Slate blue
-
-# Backgrounds
-home_section_odd = "#1c1c1e"   # Charcoal black (modern, clean)
-home_section_even = "#2a2a2e"  # Dark graphite gray (slight contrast)
-
-dark_background = "#1f2937"
-dark_home_section_odd = "#111827"
-dark_home_section_even = "#1f2937"
-
-# Link colors
-link = "#93c5fd"         # Soft blue (readable and pleasant)
-link_hover = "#3b82f6"   # Vivid blue on hover
-
-[dark]
-  menu_primary = "#1f2937"
-  menu_text = "#f9fafb"
-  menu_text_active = "#60a5fa"
-  menu_title = "#facc15"
-
-  home_section_odd = "#111827"
-  home_section_even = "#1f2937"
-
-  link = "#93c5fd"
-  link_hover = "#3b82f6"
+name = "Academic Light"
+light = true
+primary = "#176559"
+menu_primary = "#fafaf7"
+menu_text = "#384648"
+menu_text_active = "#176559"
+menu_title = "#172f35"
+home_section_odd = "#fafaf7"
+home_section_even = "#ffffff"
+link = "#176559"
+link_hover = "#10493f"

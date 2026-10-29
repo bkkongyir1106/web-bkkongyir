@@ -2,14 +2,14 @@
 widget: accomplishments
 active: true
 headless: true
-weight: 50
+weight: 80
 title: 'Honors & Awards'
 date_format: Jan 2006
 
 item:
 - certificate_url: ''
   date_end: ""
-  date_start: "2025-05-15"
+  date_start: "2024-05-01"
   description: ""
   organization: Oklahoma State University
   organization_url: https://cas.okstate.edu/statistics/
@@ -29,7 +29,7 @@ item:
 
 - certificate_url: ''
   date_end: ""
-  date_start: "2024-12-13"
+  date_start: "2024-05-01"
   description: ""
   organization: Oklahoma State University
   organization_url: https://cas.okstate.edu/statistics/

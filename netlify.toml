@@ -19,3 +19,15 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Preserve existing publication and attachment links.
+[[redirects]]
+  from = "/publication/osafoagyare-bayes-2020/*"
+  to = "/publication/road-accident-injury-severity/:splat"
+  status = 301
+
+# Preserve existing publication and attachment links.
+[[redirects]]
+  from = "/publication/osafoagyare-expectile-factorization-2024/*"
+  to = "/publication/bootstrap-home-prices/:splat"
+  status = 301

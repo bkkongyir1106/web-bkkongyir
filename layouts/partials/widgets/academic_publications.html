@@ -1,0 +1,13 @@
+<div class="publications-heading"><div><p class="eyebrow">SCHOLARSHIP</p><h2>{{ .page.Title }}</h2><p>{{ .page.Params.subtitle }}</p></div><a class="text-link" href="/publication/">Publication archive <span aria-hidden="true">↗</span></a></div>
+<div class="publication-list">
+{{ range (where site.RegularPages "Type" "publication").ByDate.Reverse }}
+  {{ $title := .Title }}
+  <article class="publication-row">
+    <div class="publication-year">{{ .Date.Format "2006" }}</div>
+    <div class="publication-copy"><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3><p class="publication-authors">{{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}{{ if eq $author "admin" }}<strong>Benedict Kongyir</strong>{{ else }}{{ $author }}{{ end }}{{ end }}</p>
+      {{ with .Params.publication }}<p>{{ . | markdownify }}</p>{{ end }}
+      <div class="publication-actions"><a href="{{ .RelPermalink }}">Details <span class="sr-only">for {{ .Title }}</span><span aria-hidden="true">↗</span></a>{{ with .Params.url_pdf }}<a href="{{ . }}">PDF<span class="sr-only"> of {{ $title }}</span></a>{{ end }}{{ with .Resources.GetMatch "cite.bib" }}<a href="{{ .RelPermalink }}" download>Citation<span class="sr-only"> for {{ $title }}</span></a>{{ end }}</div>
+    </div>
+  </article>
+{{ end }}
+</div>
