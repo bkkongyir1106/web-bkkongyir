@@ -82,12 +82,18 @@ user_groups:
 - Teachers
 ---
 
+I am a Visiting Assistant Professor of Statistics at [Gustavus Adolphus College](https://gustavus.edu/our-people/benedict-kongyir) in St. Peter, Minnesota. I earned my Ph.D. in Statistics from [Oklahoma State University](https://go.okstate.edu/about-osu) in 2026, where I conducted my doctoral research under the supervision of [Professor Pratyaydipta Rudra](https://experts.okstate.edu/prudra). My research focuses on statistical inference, hypothesis testing, and the practical utility of normality tests, with particular emphasis on developing decision frameworks that connect statistical theory with real-world applications.
 
-I am a 5th-year PhD candidate in the [Statistics program](https://cas.okstate.edu/statistics/) at Oklahoma State University in Stillwater, Oklahoma. I hail from Lawra-Tolibri, a vibrant town in the Upper West Region of Ghana known for its rich culture and warm hospitality. I earned my MS in [Mathematics](https://academics.ysu.edu/mathematics-and-statistics) at Youngstown State University and my BS in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/). I am a proud 'Xavascan'. I work under the guidance of [Professor Pratyaydipta Rudra](https://experts.okstate.edu/prudra), with my research centered on evaluating the utility of normality tests in statistical practice—work that bridges theoretical rigor with practical applications in modern data analysis.
+Before pursuing my doctorate, I earned an M.S. in Mathematics from [Youngstown State University](https://ysu.edu/) and a B.S. in Actuarial Science from [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/) in Ghana.
 
-Outside of academics, I’m passionate about social impact and co-founded Konbar, a social enterprise tackling malnutrition and food insecurity through sustainable dry-season irrigation farming in rural Africa. I also enjoy teaching, tutoring statistics, and contributing as a science fair judge to inspire the next generation of thinkers. When I’m not immersed in data or community work, you’ll likely find me listening to music, or enjoying meaningful conversations.
+I hail from Lawra-Tolibri in the Upper West Region of Ghana, a community known for its rich cultural heritage and warm hospitality. I am a proud Xavascan.
 
-Go Pokes!   
+Beyond research, I am passionate about teaching, mentorship, and applying quantitative methods to practical problems. My professional interests span statistics, data science, actuarial science, and predictive analytics.
+
+I am also passionate about social impact and co-founded Konbar, a social enterprise focused on addressing malnutrition and food insecurity through sustainable dry-season irrigation farming in rural Africa. I enjoy teaching and tutoring statistics, as well as volunteering as a science fair judge to encourage young people to explore science and mathematics.
+
+Outside academics, I enjoy listening to music and engaging in meaningful conversations.
+  
 
 Click for more:
 
