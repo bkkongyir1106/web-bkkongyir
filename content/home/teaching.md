@@ -26,8 +26,8 @@ design:
 
 ### Visiting Assistant Professor in Statistics
 ## Fall 2026:
-- MCS 142(Introductory Statistics)
-- MCS 242(Applied Regression Analysis)
+- MCS 142 (Introductory Statistics)
+- MCS 242 (Applied Regression Analysis)
   
 ### Instructor of Record, Oklahoma State University
 - STATS 2013 - Elementary Statistics
